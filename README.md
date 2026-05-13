@@ -1,1 +1,1 @@
-# AssistantProfessor
+# Assistant Professor
